@@ -1,0 +1,20 @@
+Django
+gunicorn
+python-dotenv
+django-environ
+djangorestframework
+# django-rosetta
+# django-storages
+dj-database-url
+whitenoise
+# psycopg2
+# psycopg2-binary
+# dataclass_wizard
+# Pillow
+
+# telegram-related
+# pyrogram
+# TgCrypto
+# aiohttp
+# apscheduler
+# django-theme-soft-design
